@@ -1,0 +1,9 @@
+web:
+  image: docker.ddm.io/<%= repoName %>:<%= tag %>
+  ports:
+    - "<%= hostPort %>:8080"
+  links:
+    - redis
+  environment:
+    ENV: stage
+  restart: always
