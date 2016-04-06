@@ -1,8 +1,3 @@
 # embeddable-api
 
-## TODO
-
-- Add `eslint`
-
-
-Test Build Incrementor: 2
+Test Build Incrementor: 3
