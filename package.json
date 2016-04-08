@@ -5,6 +5,7 @@
   "main": "app/server.js",
   "scripts": {
     "test": "jest",
+    "start": "node ./app/server.js",
     "start-dev": "supervisor ./app/server.js",
     "lint": "eslint **/*.js"
   },
