@@ -31,7 +31,9 @@
     "eslint": "^2.5.3",
     "express": "^4.13.4",
     "jest": "^0.1.40",
-    "jest-cli": "^0.9.2"
+    "jest-cli": "^0.9.2",
+    "jquery": "^2.2.3",
+    "jsdom": "^8.4.0"
   },
   "devDependencies": {
     "eslint-config-airbnb": "^6.2.0",
