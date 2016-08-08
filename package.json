@@ -1,6 +1,6 @@
 {
   "name": "embeddable-api",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "app/server.js",
   "scripts": {
@@ -28,7 +28,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "body-parser": "^1.15.0",
     "cors": "^2.7.1",
-    "embedable": "^1.0.8",
+    "embedable": "^1.0.16",
     "eslint": "^2.5.3",
     "express": "^4.13.4",
     "jest": "^0.1.40",
