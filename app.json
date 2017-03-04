@@ -2,5 +2,11 @@
     "name": "embeddable-api",
     "description": "An API for retrieving OpenGraph and similar sets of data from a given URL",
     "repository": "https://github.com/deseretdigital/embeddable-api",
-    "image": "heroku/nodejs"
+    "image": "heroku/nodejs",
+    "env": {
+        "PORT": {
+            "description": "Web port this runs on",
+            "value": 80
+        }
+    }
 }
