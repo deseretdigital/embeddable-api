@@ -11,4 +11,5 @@ This uses Docker to get up and running. Deploy it as you would in your Docker en
 
 ## API
 
-`/api/v1/embed?uri=EMBED_URI`
+* Fetch an embed: `/api/v1/embed?uri=EMBED_URI`
+* Retrieve a list of providers: `/api/v1/providers`
